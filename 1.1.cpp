@@ -49,5 +49,7 @@ int main()
     string s2 = "abcdefghijklmnopqrstuvwxyz1234567890";
     cout<<isUnique1(s1)<<" "<<isUnique1(s2)<<endl;
     cout<<isUnique2(s1)<<" "<<isUnique2(s2)<<endl;
+    cout<<isUnique3(s1)<<" "<<isUnique3(s2)<<endl;
+
     return 0;
 }
